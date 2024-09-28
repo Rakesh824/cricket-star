@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #home {
+    background-image: url('https://res.cloudinary.com/dy0y9vg8a/image/upload/v1726310438/t53bzhejx9jqgrbi55im.jpg');
+    background-size: cover;
+    color: white;
+    height: 100vh;
+  }
+  
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    color: white !important;
+    font-size: 18px;
+  }
+  
+  .section-title {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  #players .card {
+    transition: transform 0.3s;
+  }
+  
+  #players .card:hover {
+    transform: scale(1.05);
+  }
+  
+  
